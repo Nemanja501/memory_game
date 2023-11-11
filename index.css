@@ -1,10 +1,10 @@
-* {
-  margin: 0;
-  padding: 0;
+.grid{
+  position: absolute;
+  height: 1200px;
+  width: 800px;
+  top: 20px;
+  left: 30vw;
+ 
 }
-body {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  gap: 1rem;
-}
+
+
